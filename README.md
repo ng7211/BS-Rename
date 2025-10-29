@@ -1,2 +1,2 @@
 # BS-Rename
-Script that adds given argument to the file in the current directory.
+Script that adds given argument to the file name in the current directory.
