@@ -3,10 +3,10 @@
 # Demy Abdulsalami, Ilja Winkler
 # 29.10.2025
  
-# Parameterübergabe über $1
+# passing argument.
 ARGUMENT=$1
 
-# Prüfung, ob Parameterübergebn wurde.
+# Check if argument was passed.
 if [[  "$ARGUMENT" == ""  ]]
 then
 	echo "Kein Argument angegeben, bitte geben sie ein Argument an!"
